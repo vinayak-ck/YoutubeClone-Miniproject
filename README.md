@@ -1,5 +1,5 @@
 # YouTube Clone
-##The Build File is too large to uplode (700MB) and we uploded in drive 
+## The Build File is too large to uplode (700MB) and we uploded in drive 
 drive link - https://drive.google.com/file/d/1LujsynVdBsI1SgSKjWImuVdCaJwYx_PU/view?usp=sharing
 ## About This App
 
